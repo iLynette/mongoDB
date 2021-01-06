@@ -1,0 +1,23 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Using mongoDB with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLynette/mongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLynette/mongoDB/issues"
+  },
+  "homepage": "https://github.com/iLynette/mongoDB#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
